@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FileListHelper.cs](./CS/FileList/FileListHelper.cs) (VB: [FileListHelper.vb](./VB/FileList/FileListHelper.vb))
+* [Form1.cs](./CS/FileList/Form1.cs) (VB: [Form1.vb](./VB/FileList/Form1.vb))
+* [Program.cs](./CS/FileList/Program.cs) (VB: [Program.vb](./VB/FileList/Program.vb))
+<!-- default file list end -->
 # How to use TreeList for file management (drag and drop files and folders)
 
 

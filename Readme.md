@@ -21,7 +21,7 @@ This example demonstrates how to use the WinForms TreeList control to display a 
 * [Drag-and-Drop Tree List Nodes](https://docs.devexpress.com/WindowsForms/401949/controls-and-libraries/tree-list/feature-center/drag-and-drop)
 * [Drag-and-Drop Behavior](https://docs.devexpress.com/WindowsForms/118656/common-features/behaviors/drag-and-drop-behavior)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-create-file-manager-drag-drop-files-folders&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-treelist-create-file-manager-drag-drop-files-folders&~~~was_helpful=no)
 
